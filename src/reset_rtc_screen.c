@@ -222,11 +222,7 @@ static const union AnimCmd *const sAnims_Arrow[] =
     [ARROW_RIGHT] = sAnim_Arrow_Right,
 };
 
-<<<<<<< HEAD
-const struct SpriteTemplate gSpriteTemplate_Arrow =
-=======
 const struct SpriteTemplate sSpriteTemplate_Arrow =
->>>>>>> bc2c3e1d49a1ab8de251a806a039b019269af21e
 {
     .tileTag = TAG_NONE,
     .paletteTag = PALTAG_ARROW,
