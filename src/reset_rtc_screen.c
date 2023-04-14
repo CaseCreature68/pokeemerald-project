@@ -186,11 +186,7 @@ static const struct SpriteFrameImage sPicTable_Arrow[] =
     obj_frame_tiles(sArrowRight_Gfx)
 };
 
-<<<<<<< HEAD
-const struct SpritePalette gSpritePalette_Arrow =
-=======
 const struct SpritePalette sSpritePalette_Arrow =
->>>>>>> bc2c3e1d49a1ab8de251a806a039b019269af21e
 {
     sArrow_Pal, PALTAG_ARROW
 };
